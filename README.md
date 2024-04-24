@@ -1,2 +1,2 @@
-# INF8225
-INF8225 - I.A.:tech. probabilistes et d'apprentissage
+# INF8225 - I.A.:tech. probabilistes et d'apprentissage
+The code related to our project report on the classification of sentiment in financial data is present in the [notebook.ipynb](notebook.ipynb) file.
